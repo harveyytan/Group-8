@@ -14,6 +14,13 @@ Suicide, as a very sensitive matter, should be handled and tackled in a very ser
 
 ## EXPECTED OUTPUT 
 Suicide is a self-inflicted death in which people commit suicide in order to end their life and escape reality. Suicide is a common occurrence in the world around us. It's difficult to say who it will be. Statistics show that the majority of young people consider suicide. That is why every country should have a program that focuses on each individual's mental health. Some people believe that suicide is merely a dramatic event, yet it is a serious issue that has to be addressed. There are already various hotlines that you can contact if you are experiencing anxiety or depression, but they are not readily available to everyone. This study aims to create an easier way to make people feel that they are not alone. This is by creating a website that lets a person talk to someone to ease their burden in life. People can also seek for medical assistance through this website.
+## Objectives
+The group’s proposed project aims to provide a more accessible and effective form of suicide prevention. It has been established that hotlines are incapable of making a significant impact on the level of suicides between nations. In line with this, the extensive online presences of individuals associated with the modern age make for the perfect environment to shift suicide prevention online through websites. 
+  - Promote Awareness That Suicide Is a Public Health Problem That Is Preventable
+  - Develop a broad-base support for suicide prevention
+  - Promote and support Research on Suicide and Suicide Prevention.
+Not only does this eliminate the limits of locality associated with hotlines, but the speed information also travels online, solving the issue of awareness. On the other hand, websites are also capable of offering a wider variety of services making for a more effective suicide prevention system.
+
 
 ## REFERENCES
 Ritchie, H., Roser, M., &amp; Ortiz-Ospina, E. (2015, June 15). Suicide. Our World in Data. Retrieved April 6, 2022, from https://ourworldindata.org/suicide
