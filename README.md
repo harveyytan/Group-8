@@ -28,6 +28,7 @@ Not only does this eliminate the limits of locality associated with hotlines, bu
 
 ## Sustainable Development Goals (SDGs) of the project
 
+![image](https://user-images.githubusercontent.com/103092410/171396372-0cdee80e-c624-4ed4-a362-72bfcc2ed5fc.png)
 
 ## REFERENCES
 Ritchie, H., Roser, M., &amp; Ortiz-Ospina, E. (2015, June 15). Suicide. Our World in Data. Retrieved April 6, 2022, from https://ourworldindata.org/suicide
