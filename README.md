@@ -23,6 +23,11 @@ The group’s proposed project aims to provide a more accessible and effective f
  
 Not only does this eliminate the limits of locality associated with hotlines, but the speed information also travels online, solving the issue of awareness. On the other hand, websites are also capable of offering a wider variety of services making for a more effective suicide prevention system.
 
+## Data Sets Normalization
+
+
+## Sustainable Development Goals (SDGs) of the project
+
 
 ## REFERENCES
 Ritchie, H., Roser, M., &amp; Ortiz-Ospina, E. (2015, June 15). Suicide. Our World in Data. Retrieved April 6, 2022, from https://ourworldindata.org/suicide
