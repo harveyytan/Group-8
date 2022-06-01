@@ -26,9 +26,11 @@ Not only does this eliminate the limits of locality associated with hotlines, bu
 ## Data Sets Normalization
 
 
-## Sustainable Development Goals (SDGs) of the project
+## Sustainable Development Goals (SDGs) of the project 
+     These SDGs are further described as follows;
+Goal 3: Good Health and Well Being- The goal is to reduce the amount of deaths and illnesses caused by pollution and contamination of the air, water, and soil. Limiting availability to suicide tools like firearms and pesticides, as well as early detection, assessment, management, and follow-up of those with suicidal thoughts and behaviors, are all important prevention approaches.
 
-![image](https://user-images.githubusercontent.com/103092410/171396372-0cdee80e-c624-4ed4-a362-72bfcc2ed5fc.png)
+![image](https://user-images.githubusercontent.com/103092410/171396713-1199559b-665f-4961-b1c0-3b08d12af8e3.png)
 
 ## REFERENCES
 Ritchie, H., Roser, M., &amp; Ortiz-Ospina, E. (2015, June 15). Suicide. Our World in Data. Retrieved April 6, 2022, from https://ourworldindata.org/suicide
