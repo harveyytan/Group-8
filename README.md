@@ -19,6 +19,7 @@ The group’s proposed project aims to provide a more accessible and effective f
 
   - Promote Awareness That Suicide Is a Public Health Problem That Is Preventable
   - To examine evidence for the effectiveness of specific suicide-preventive interventions and to make recommendations for future prevention programs and research.
+  - Increase knowledge of warning signs for suicide and of how to connect individuals in crisis with assistance and care 
 
 Not only does this eliminate the limits of locality associated with hotlines, but the speed information also travels online, solving the issue of awareness. On the other hand, websites are also capable of offering a wider variety of services making for a more effective suicide prevention system.
 
