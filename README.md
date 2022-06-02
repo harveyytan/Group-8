@@ -18,9 +18,8 @@ Suicide is a self-inflicted death in which people commit suicide in order to end
 The group’s proposed project aims to provide a more accessible and effective form of suicide prevention. It has been established that hotlines are incapable of making a significant impact on the level of suicides between nations. In line with this, the extensive online presences of individuals associated with the modern age make for the perfect environment to shift suicide prevention online through websites. 
 
   - Promote Awareness That Suicide Is a Public Health Problem That Is Preventable
-  - Develop a broad-base support for suicide prevention
-  - Promote and support Research on Suicide and Suicide Prevention.
- 
+  - To examine evidence for the effectiveness of specific suicide-preventive interventions and to make recommendations for future prevention programs and research.
+
 Not only does this eliminate the limits of locality associated with hotlines, but the speed information also travels online, solving the issue of awareness. On the other hand, websites are also capable of offering a wider variety of services making for a more effective suicide prevention system.
 
 ## Data Sets Normalization
