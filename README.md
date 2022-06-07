@@ -36,7 +36,7 @@ The group’s proposed project aims to provide a more accessible and effective f
 Not only does this eliminate the limits of locality associated with hotlines, but the speed information also travels online, solving the issue of awareness. On the other hand, websites are also capable of offering a wider variety of services making for a more effective suicide prevention system.
 
 ## Data Sets Normalization
-
+  Normalization is a technique for organizing data in a database. A database must be normalized to avoid duplicate data and to guarantee that only relevant data is saved in each table. It is the process of properly organizing data and entails structuring the columns and tables in the database to guarantee that their dependencies are accurately implemented using database constraints. 
 
 ## Sustainable Development Goals (SDGs) of the project 
      These SDGs are further described as follows;
