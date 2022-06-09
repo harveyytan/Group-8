@@ -7,6 +7,7 @@ Suicide and attempted suicide have major emotional, physical, and financial cons
     - refers to a wide range of mental health conditions; disorders that affect your mood, thinking and behavior. Examples of mental illness include depression, anxiety disorders, schizophrenia, eating disorders and addictive behaviors
   2. Discriminated Groups
     - refugees and migrants, indigenous peoples, lesbian, homosexual, bisexual, transgender, and intersex (LGBTI) people, and convicts. 
+
 It is critical for governments to raise community awareness and break down in order to make headway in preventing suicide. Suicide is death caused by injuring oneself with the intent to die. A suicide attempt is when someone harms themselves with any intent to end their life, but they do not die as a result of their actions. Many factors can increase the risk for suicide or protect against it. Suicide is connected to other forms of injury and violence. For example, people who have experienced violence, including child abuse, bullying, or sexual violence have a higher suicide risk. 
 ## RECOMMENDATIONS
 Being connected to family and community support and having easy access to health care can decrease suicidal thoughts and behaviors. Suicide and suicide attempts cause serious emotional, physical, and economic impacts. Suicides among young people continue to be a serious problem. Suicidal youth may also stop planning for or discussing the future. They might start handing over valuables. Many factors can raise or decrease the risk of suicide. 
