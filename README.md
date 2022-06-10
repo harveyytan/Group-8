@@ -45,6 +45,12 @@ Goal 3: Good Health and Well Being- The goal is to reduce the amount of deaths a
 
 ![image](https://user-images.githubusercontent.com/103092410/171396713-1199559b-665f-4961-b1c0-3b08d12af8e3.png)
 
+## Live Presentation
+[![Watch the video](https://github.com/harveyytan/Group-8)](https://www.youtube.com/watch?v=e8O84LkzlSs)
+
+## Final Presentation
+[![Watch the video](https://github.com/harveyytan/Group-8)](https://www.youtube.com/watch?v=5L0SP-vsUG8)
+
 ## REFERENCES
 Ritchie, H., Roser, M., &amp; Ortiz-Ospina, E. (2015, June 15). Suicide. Our World in Data. Retrieved April 6, 2022, from https://ourworldindata.org/suicide
 
